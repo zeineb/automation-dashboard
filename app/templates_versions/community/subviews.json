@@ -62,7 +62,7 @@
         },
         "images": ["not_available_image_cloud_automation.png"]
     },
-        "jobPlanner": {
+    "jobPlanner": {
         "isAvailable": true,
         "name": "Job planner portal",
         "nameForUrl": "job-planner-portal",
